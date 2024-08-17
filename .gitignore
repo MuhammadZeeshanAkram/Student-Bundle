@@ -1,0 +1,30 @@
+# Ignore build directories and files
+build/
+.dart_tool/
+.pub/
+
+# Ignore IDE/editor-specific files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Ignore C++ specific files
+*.cpp
+*.h
+*.c
+*.o
+*.a
+*.so
+*.dll
+*.lib
+*.dylib
+
+# Ignore other non-Dart files
+*.log
+*.tmp
+*.bak
+
+# Ignore system files
+.DS_Store
+Thumbs.db
