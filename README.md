@@ -9,7 +9,7 @@
 - **Capabilities**: Handles a wide range of queries related to studies, assignments, and general student needs.
 
 ### 📸 Text Detection
-- **Description**: Extracts text from images using advanced optical character recognition (OCR) technology.
+- **Description**: Extracts text from images.
 - **Features**:
   - **Gallery Access**: Select images from the gallery for text extraction.
   - **Camera Integration**: Real-time text detection through the device’s camera.
@@ -22,7 +22,7 @@
   - **Study Aid**: Ideal for summarizing articles, research papers, and study materials.
 
 ### 📋 To-Do List
-- **Description**: Organizes and tracks assignments and activities.
+- **Description**: Organizes assignments and activities.
 - **Features**:
   - **Task Creation**: Add, edit, and delete tasks.
   - **Prioritization**: Set priorities and deadlines for effective time management.
